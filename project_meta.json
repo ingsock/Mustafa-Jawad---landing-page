@@ -1,0 +1,87 @@
+{
+    "meta": {
+        "project_name": "Dr. Mustafa Jawad Al-Fatlawi Landing Page",
+        "version": "1.0.0",
+        "last_updated": "2025-12-07"
+    },
+    "design_system": {
+        "colors": {
+            "primary": "#1e3a8a",
+            "primary_hover": "#172554",
+            "accent": "#f59e0b",
+            "accent_hover": "#d97706",
+            "background_light": "#f8fafc",
+            "text_dark": "#0f172a",
+            "text_light": "#64748b"
+        },
+        "fonts": {
+            "english": "Inter, sans-serif",
+            "arabic": "Cairo, sans-serif"
+        },
+        "background_pattern": {
+            "style": "subtle-geometric-waves",
+            "opacity": 0.05
+        }
+    },
+    "content": {
+        "en": {
+            "doctor_name": "Dr. Mustafa Jawad Al-Fatlawi",
+            "qualifications": [
+                "M.B.Ch.B - F.I.C.M.S",
+                "PhD (Board) in Internal Medicine, Cardiac, and Chest Diseases",
+                "Digestive System Diseases, Hypertension, and Diabetes",
+                "Fellow of the Iraqi Council for Medical Specializations"
+            ],
+            "contact": {
+                "phone": "07744696465",
+                "location": "Karbala - Next to Food Fort Restaurant",
+                "cta_call": "Call Now",
+                "cta_book": "Book Appointment"
+            },
+            "nav": {
+                "home": "Home",
+                "about": "About",
+                "services": "Services",
+                "contact": "Contact"
+            },
+            "hero_headline": "Expert Care for Your Heart & Health",
+            "hero_subheadline": "Specialized in Internal Medicine, Cardiac, Chest, and Digestive System Diseases.",
+            "services_title": "Our Specialties"
+        },
+        "ar": {
+            "doctor_name": "الدكتور مصطفى جواد الفتلاوي",
+            "qualifications": [
+                "دكتوراه (بورد) في الأمراض الباطنية والقلبية والصدرية",
+                "أمراض الجهاز الهضمي وضغط الدم والسكري",
+                "زميل المجلس العراقي للاختصاصات الطبية"
+            ],
+            "contact": {
+                "phone": "07744696465",
+                "location": "كربلاء - مجاور مطعم فودفورت",
+                "cta_call": "اتصل الآن",
+                "cta_book": "حجز موعد"
+            },
+            "nav": {
+                "home": "الرئيسية",
+                "about": "من نحن",
+                "services": "الخدمات",
+                "contact": "اتصل بنا"
+            },
+            "hero_headline": "رعاية متخصصة لصحتك وقلبك",
+            "hero_subheadline": "متخصص في الأمراض الباطنية، القلبية، الصدرية، والجهاز الهضمي.",
+            "services_title": "تخصصاتنا"
+        }
+    },
+    "images": {
+        "hero_portrait": {
+            "url": "assets/images/Mustafa_Jawad.png",
+            "alt_en": "Portrait of Dr. Mustafa Jawad Al-Fatlawi",
+            "alt_ar": "صورة الدكتور مصطفى جواد الفتلاوي"
+        },
+        "specialties": {
+            "heart": "assets/images/Heart.png",
+            "lungs": "assets/images/Internal.png",
+            "digestive": "assets/images/Stomach.png"
+        }
+    }
+}
